@@ -1,7 +1,6 @@
 import React from 'react';
 import Tvs from '../../services/mockedTvs.json';
 import { Link } from 'react-router-dom';
-console.log(Tvs);
 
 
 // if ()
