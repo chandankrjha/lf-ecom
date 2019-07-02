@@ -1,0 +1,2 @@
+export const GET_OBJ_BY_ID_START = 'GET_OBJ_BY_ID_START';
+export const GET_OBJ_BY_ID_SUCCESS = 'GET_OBJ_BY_ID_SUCCESS';
